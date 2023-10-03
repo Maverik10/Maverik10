@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Maverik10
-- 👀 I’m a beginner in coding.
-- 🌱 I’m currently learning C++ and python.
-- 📫 You can reach me via mail  - sidd10j@gmail.com
+- Hello, @Maverik10!
+- 👋 Greetings! I'm @Maverik10.
+- 👀 I'm highly proficient in coding.
+- 🌱 Currently, I'm dedicated to expanding my knowledge in C++ and Python.
+- 📫 Feel free to get in touch with me via email at sidd10j@gmail.com.
 
 
 <!---
