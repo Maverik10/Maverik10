@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth jain</h1>
 <h3 align="center">MACHINE LEARNING and FRONTEND DEVELOPER</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1YU62J1MUXTguptMGxGzEg&ust=1711740333860000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDF_-jXl4UDFQAAAAAdAAAAABAE)">
 
 - 👯 I’m looking to collaborate on **Fronend and Machine Learning Projects**
 
