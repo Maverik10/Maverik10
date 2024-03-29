@@ -5,8 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth jain</h1>
 <h3 align="center">MACHINE LEARNING and FRONTEND DEVELOPER</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)]
-
+<img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/59813501292017265/]
 - 👯 I’m looking to collaborate on **Fronend and Machine Learning Projects**
 
 - 💬 Ask me about **C++, Python, Data Structures and Algorithm,HTML,CSS**
