@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth jain</h1>
 <h3 align="center">MACHINE LEARNING and FRONTEND DEVELOPER</h3>
-<img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/59813501292017265/](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1711689570~exp=1711690170~hmac=1509e504db65ff7488ac882f278b7fc9585885932c440c93acc7440612858025)">
+<!-- <img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/59813501292017265/](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1711689570~exp=1711690170~hmac=1509e504db65ff7488ac882f278b7fc9585885932c440c93acc7440612858025)"> -->
 - 👯 I’m looking to collaborate on **Fronend and Machine Learning Projects**
 
 - 💬 Ask me about **C++, Python, Data Structures and Algorithm,HTML,CSS**
