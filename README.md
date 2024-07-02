@@ -1,6 +1,17 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
+<h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
+<h3 align="center">CSE STUDENT</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maverik10&label=Profile%20views&color=0e75b6&style=flat" alt="maverik10" /> </p>
+
+- 👯 I’m looking to collaborate on **Fronend and Machine Learning Projects**
+
+- 💬 Ask me about **C++, Python, Data Structures and Algorithm,HTML,CSS**
+
+- 📫 How to reach me **sidd10j@gmail.com**
+
+- 📄 Know about my experiences [http://tinyurl.com/resu10me](http://tinyurl.com/resu10me)
 
 
 ## 🌐 Socials:
