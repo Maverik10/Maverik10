@@ -5,8 +5,8 @@
 <h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
 
 ---
-- 🔭 I’m currently working on Neural Networks  
-- 🌱 I’m currently learning Artifical Intelegence and Machine Learning
+- 🔭 I’m currently working on Artificial Intelligence  
+- 🌱 I’m currently learning Natural Language Processing 
 - ❓ Ask me about anything related to my domian, I am always 
       ready  
 - 🔍 Reach me at: ✉️ sidd10j@gmail.com
