@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sidd10j@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/jain_s](https://bit.ly/jain_s)
+- 📄 Know about my experiences [Resume](https://bit.ly/jain_s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
