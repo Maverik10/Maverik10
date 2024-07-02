@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sidd10j@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/resu10me](http://tinyurl.com/resu10me)
+- 📄 Know about my experiences [http://tinyurl.com/resu10me]((https://bit.ly/jain_s)
 
 
 ## 🌐 Socials:
