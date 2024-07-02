@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![logo](https://github.com/Maverik10/Maverik10/blob/main/banner.png)
 
 
 <h1 align="center">I'm Siddharth Jain! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
