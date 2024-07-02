@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sidd10j@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/resu10me](http://tinyurl.com/res10ume)
+- 📄 Know about my experiences [Resume](https://bit.ly/jain_s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
