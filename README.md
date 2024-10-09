@@ -34,7 +34,7 @@
 <!-- <a href="https://linkedin.com/in/siddharth-jain1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-jain1010" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/_.s.i.d.d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.s.i.d.d_" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/aeromav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aeromav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aero_mavrik10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aero_mavrik10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aeromavx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aero_mavrik10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aeromav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aeromav" height="30" width="40" /></a>
 </p>
 
