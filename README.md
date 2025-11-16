@@ -1,8 +1,8 @@
 ![logo](https://github.com/Maverik10/Maverik10/blob/main/banner.png)
 
 
-<h1 align="center">I'm Siddharth Jain! 🚀 | Final Year B.Tech CSE Student 🎓 </h1>
-<h3 align="center">| Machine Learning and Front End Developer 💻 |</h3>
+<h1 align="center">I'm Siddharth Jain! 🚀 | B.Tech CSE Student 🎓 </h1>
+<h3 align="center">| Machine Learning and Back End Developer 💻 |</h3>
 
 ---
 - 🔭 I’m currently working on Artificial Intelligence  
